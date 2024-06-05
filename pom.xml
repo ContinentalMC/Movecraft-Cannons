@@ -6,7 +6,7 @@
 
     <groupId>net.TylerS1066.Movecraft-Cannons</groupId>
     <artifactId>Movecraft-Cannons</artifactId>
-    <version>1.0.0-beta_1</version>
+    <version>1.0.0-beta_2</version>
     <packaging>jar</packaging>
 
     <name>Movecraft-Cannons</name>
@@ -42,7 +42,7 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.14.4-R0.1-SNAPSHOT</version>
+            <version>1.20.6-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
